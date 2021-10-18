@@ -1,0 +1,51 @@
+h4 {
+  margin:0px;
+}
+td:nth-child(1) {
+  width:15%;
+}
+
+td:nth-child(2) {
+  width:45%;
+  font-size:.8em;
+
+}
+
+td:nth-child(3) {
+  width:20%;
+
+}
+
+td:nth-child(4) {
+  width:20%;
+  max-height:30px;
+  overflow:scroll;
+}
+span, .volcol input {
+  float:left;
+  width:20%;
+}
+.btn-active {
+  background-color:rgba(0,255,255,1);
+  color:#222;
+}
+table tr {
+  border-bottom:1px dotted #ccc;
+}
+
+pre {
+  font-size:.8em;
+  margin:0px;
+}
+.logo {
+  width: 80px;
+  margin-top:14px;
+}
+h1 {
+margin:0px;
+}
+table {
+  margin-top:48px;
+  width:100%;
+  box-shadow:0px 12px 24px rgba(0,0,0,.1);
+}
