@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/ngx-wavesurfer-rxjs-example",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
